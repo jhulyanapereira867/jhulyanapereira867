@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/images/robot.png" />
+  <img src=><blockquote class="imgur-embed-pub" lang="en" data-id="z83qW8X"><a href="https://imgur.com/z83qW8X">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
   <h1>Jhulyana Pereira </h1>
   <p>"Meu objetivo profissional e crescer constatemente, adquirindo novos conhecimentos e habilidades, para oferecer  sempre o melhor no que eu faço e conquistar estabilidade e realização na minha carreira".</p>
 </div>
@@ -11,9 +11,9 @@
 
 💻 Ciência de Dados - UFG (ESCOLA DO FUTURO)
 
-🚀 Apaixonado por [sua área de interesse]
+🚀 Apaixonado por [ POR TUDO QUE DA CERTO  ]
 
-🧠 O que faz
+🧠 O que faz [TUDO POCO  DE CIENCIAS DE DADOS POUCO DE FILOSOFIA....]
 
 ---
 Redes Sociais com Badges
@@ -42,14 +42,14 @@ Redes Sociais com Badges
 
 ---
 
-Projetos em Destaque
-## 💼 Projetos: [escreve sobre seus projetos]
+Projetos BI em Destaque
+## 💼 Projetos: [Projeto BI https://app.powerbi.com/view?r=eyJrIjoiMDJkZjJlMzUtODAwYy00NDg2LWE3MGUtZGU0NDFmZGZlYmUwIiwidCI6IjM4NzZlMjI2LTA2MDMtNDc5NS04NWIxLWM2NDI3Y2FkNzM3YyJ9
 
----
 
-Contato
+
+
 ## 📫 Contato
 
-- 💼 LinkedIn: [link]
-- 📧 Email: [email]
-- ⏳ tel: +55 61 99220-6785
+- ⓕ Facebook [inativo]
+- 📧 Email: [julianapjb24@hotmail.com]
+- ☏ tel: +55 61 99220-6785

@@ -43,7 +43,7 @@ Redes Sociais com Badges
 ---
 
 Projetos BI em Destaque
-## 💼 Projetos: [Projeto BI https://app.powerbi.com/view?r=eyJrIjoiMDJkZjJlMzUtODAwYy00NDg2LWE3MGUtZGU0NDFmZGZlYmUwIiwidCI6IjM4NzZlMjI2LTA2MDMtNDc5NS04NWIxLWM2NDI3Y2FkNzM3YyJ9
+## 💼 Projetos: [Projeto BI https://app.powerbi.com/view?r=eyJrIjoiMDJkZjJlMzUtODAwYy00NDg2LWE3MGUtZGU0NDFmZGZlYmUwIiwidCI6IjM4NzZlMjI2LTA2MDMtNDc5NS04NWIxLWM2NDI3Y2FkNzM3YyJ9]
 
 
 
